@@ -12,4 +12,5 @@ To choose the best move the IA Player generate a tree of all possibilities to a 
 The IA can be imporved by using multithreading, a better heuristic and exploiting symetries.
 
 ## Test
-By default the code launch a keyboard player for the user and an IA player to play with. A graphical interface of the game board is displayed and updated in live.
+By default the code launch a keyboard player for the user and an IA player to play with. A graphical interface of the game board is displayed and updated in live.  
+To play run Game.java
