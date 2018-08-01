@@ -7,10 +7,10 @@ The game opposes two players on an 8x8 grid. One player is called line and the o
    
 You can not drop a domino on an already occupied space. As the game progresses, the grid fills, the loser is the first player who can not place his domino.
 
-## IA Player
-To choose the best move the IA Player generate a tree of all possibilities to a given depth. Then using the AlphaBeta algorithm it choose the best move.  
-The IA can be imporved by using multithreading, a better heuristic and exploiting symetries.
+## AI Player
+To choose the best move the AI Player generate a tree of all possibilities of moves to a given depth. Then using the AlphaBeta algorithm it choose the best move.  
+The AI can be imporved by using multithreading, a better heuristic and exploiting symetries.
 
 ## Test
-By default the code launch a keyboard player for the user and an IA player to play with. A graphical interface of the game board is displayed and updated in live.  
+By default the code launch a keyboard player for the user and an AI player to play with. A graphical interface of the game board is displayed and updated in live.  
 To play run Game.java
